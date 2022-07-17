@@ -1,2 +1,2 @@
-# ed-analytics-for-teams
-Educational Analytics Extension for Microsoft Teams
+# Ed Analytics for Teams
+---
