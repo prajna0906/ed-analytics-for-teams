@@ -73,5 +73,5 @@ const argTypes: ArgTypes = {
       disable: true
     }
   }
-};
+}; 
 Default.argTypes = argTypes;
